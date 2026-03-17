@@ -1,0 +1,26 @@
+<themeCapabilities>
+	
+    <themeName>PS5</themeName>
+    
+    <aspectRatio>16:9</aspectRatio>
+    
+    <fontSize>small</fontSize>
+    
+    <colorScheme name="mediavideo">
+        <label>Media Video</label>
+    </colorScheme>
+    <colorScheme name="mediascreenshot">
+        <label>Media Screenshot</label>
+    </colorScheme>
+    <colorScheme name="mediavideo-audio">
+        <label>Media Video (Audio Only)</label>
+    </colorScheme>
+    <colorScheme name="nomedia">
+        <label>No Media</label>
+    </colorScheme>
+    <colorScheme name="backgroundvideo">
+        <label>Background Video</label>
+    </colorScheme>
+    
+
+</themeCapabilities>

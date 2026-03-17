@@ -1,0 +1,63 @@
+<theme>
+    	
+    <colorScheme name="mediavideo,mediascreenshot,mediavideo-audio,nomedia,backgroundvideo,">
+        <variables>
+            <white>FFFFFF</white>
+            <black>000000</black>
+            <grey>7C7C7C</grey>
+            <greyUnfocused>8C8C8C</greyUnfocused>
+            <online>3BE795</online>
+        </variables>
+    </colorScheme>
+    
+    <colorScheme name="mediavideo">
+        <variables>
+            <showMediaVideo>true</showMediaVideo>
+            <showBackgroundVideo>false</showBackgroundVideo>
+            <showBackgroundArt>true</showBackgroundArt>
+            <showMediaScreenshot>false</showMediaScreenshot>
+            <playAudioOnly>0.830 0.730</playAudioOnly>
+        </variables>
+    </colorScheme>
+    
+    <colorScheme name="mediascreenshot">
+        <variables>
+            <showMediaVideo>false</showMediaVideo>
+            <showBackgroundVideo>false</showBackgroundVideo>
+            <showBackgroundArt>true</showBackgroundArt>
+            <showMediaScreenshot>true</showMediaScreenshot>
+            <playAudioOnly>0.830 0.730</playAudioOnly>
+        </variables>
+    </colorScheme>
+    
+    <colorScheme name="mediavideo-audio">
+        <variables>
+            <showMediaVideo>true</showMediaVideo>
+            <showBackgroundVideo>false</showBackgroundVideo>
+            <showBackgroundArt>true</showBackgroundArt>
+            <showMediaScreenshot>false</showMediaScreenshot>
+            <playAudioOnly>999 999</playAudioOnly>
+        </variables>
+    </colorScheme>
+    
+    <colorScheme name="nomedia">
+        <variables>
+            <showMediaVideo>false</showMediaVideo>
+            <showBackgroundVideo>false</showBackgroundVideo>
+            <showBackgroundArt>true</showBackgroundArt>
+            <showMediaScreenshot>false</showMediaScreenshot>
+            <playAudioOnly>0.830 0.730</playAudioOnly>
+        </variables>
+    </colorScheme>
+    
+    <colorScheme name="backgroundvideo">
+        <variables>
+            <showMediaVideo>false</showMediaVideo>
+            <showBackgroundVideo>true</showBackgroundVideo>
+            <showBackgroundArt>false</showBackgroundArt>
+            <showMediaScreenshot>false</showMediaScreenshot>
+            <playAudioOnly>0.830 0.730</playAudioOnly>
+        </variables>
+    </colorScheme>
+    
+</theme>
