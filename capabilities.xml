@@ -21,6 +21,8 @@
     <colorScheme name="backgroundvideo">
         <label>Background Video</label>
     </colorScheme>
-    
+    <colorScheme name="backgroundvideo-screenshot">
+        <label>Background Video (with Screenshot)</label>
+    </colorScheme>
 
 </themeCapabilities>
