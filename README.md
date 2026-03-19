@@ -1,43 +1,27 @@
 # PS5 Menu Theme for ES-DE
 A recreation of the PS5's menu screen for ES-DE (EmulationStation Desktop Edition)
 
-Currently only supports **16:9** and **20:9** aspect ratio devices.
+<h2>Configuration Options</h2>
+
+* This theme has a simple set of options that can be changed directly from the UI Settings menu of ES-DE
+
+* `Theme Aspect Ratio` - Sets the aspect ratio that the theme will render at. This should happen automatically but if needed, this can be changed manually to match the aspect ratio of your screen. Only `16:9` and `20:9` are supported at the moment
+
+* `Theme Variant` - There are 2 variants to choose from, which will change the size of the system and gamelist carousel
+  * `Carousel - Small`
+  * `Carousel - Large`
+ 
+* `Theme Color Scheme` - This lets you pick what you want to see on your system and gamelist view
+  * `Media Video` - Displays your scraped game videos on the right (system and gamelist view)
+  * `Media Screenshot` - Displays your scraped game screenshots on the right (system and gamelist view)
+  * `Media Video (Audio Only)` - Plays only the audio of your scraped game video, meant to replicate the PS5 game themes menu music (gamelist view)
+  * `No Media` - Doesn't display any media on your system and gamelist view
+  * `Background Video` - Displays your scraped game videos on the background (gamelist view)
+  * `Background Video (with Screenshot)` - Displays your scraped game videos on the background with your screenshots on the right (gamelist view)
 
 <h2>Preview</h2>
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/41dd67d2-a385-4bcc-83fb-97dbcdb4e784" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/94aafecd-a30f-477f-9d47-9ca19ca750e3" />
-
-<h2>Update (v0.1.3)</h2>
-
-* Cropped and resized all system icons for a better fit and to reduce file size
-
-* Added and improved all system marquee images
-
-<h2>Update (v0.1.2)</h2>
-
-* Added 20:9 aspect ratio support
-
-<h2>Update (v0.1.1)</h2>
-
-* Added icon for missing collections (completed, now-playing)
-  
-* Updated several systems and collections marquee and icon
-  
-* Added fallback images to system and gamelist
-
-<h2>Update (v0.1.0)</h2>
-  
-* Added new variant "Background Video (with Screenshot)"
-
-* Added "Last Played" game title to System List
-
-* Added game media to System List
-
-* Added "Genre" to Gamelist
-
-* Removed "Last Played" game background in System List and replaced with a static wallpaper
-
-* Moved avatar.png and background.png to "customization" folder to avoid being replaced when theme is updated via ES-DE
 
 <h2>Credits</h2>
 
