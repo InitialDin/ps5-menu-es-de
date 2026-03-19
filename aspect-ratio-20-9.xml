@@ -105,29 +105,29 @@
     </view>
     
     <view name="gamelist">
-        <image name="gamelist-gamedata-pill-players-icon">
+        <image name="gamelist-metadata-players-icon">
             <pos>0.0870 0.820</pos>
             <size>0 0.0278</size>
         </image>
-        <text name="gamelist-gamedata-pill-players">
+        <text name="gamelist-metadata-players">
             <pos>0.105 0.820</pos>
             <size>0.0380 0.0278</size>
             <fontSize>${metadataFontSize}</fontSize>
         </text>
-        <image name="gamelist-gamedata-pill-playtime-icon">
+        <image name="gamelist-metadata-playtime-icon">
             <pos>0.1530 0.820</pos>
             <size>0 0.0278</size>
         </image>
-        <text name="gamelist-gamedata-pill-playtime">
+        <text name="gamelist-metadata-playtime">
             <pos>0.1730 0.820</pos>
             <size>0.070 0.0278</size>
             <fontSize>${metadataFontSize}</fontSize>
         </text>
-        <image name="gamelist-gamedata-pill-playcount-icon">
+        <image name="gamelist-metadata-playcount-icon">
             <pos>0.2480 0.820</pos>
             <size>0 0.0278</size>
         </image>
-        <text name="gamelist-gamedata-pill-playcount">
+        <text name="gamelist-metadata-playcount">
             <pos>0.2700 0.820</pos>
             <size>0.0313 0.0278</size>
             <fontSize>${metadataFontSize}</fontSize>
