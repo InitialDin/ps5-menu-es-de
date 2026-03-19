@@ -1,7 +1,11 @@
 # PS5 Menu Theme for ES-DE
 A recreation of the PS5's menu screen for ES-DE (EmulationStation Desktop Edition)
 
-Currently only supports 16:9 aspect ratio devices.
+Currently only supports **16:9** and **20:9** aspect ratio devices.
+
+<h2>Update 0.1.2</h2>
+
+* Added 20:9 aspect ratio support
 
 <h2>Update 0.1.1</h2>
 
