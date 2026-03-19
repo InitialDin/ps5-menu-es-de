@@ -3,6 +3,11 @@ A recreation of the PS5's menu screen for ES-DE (EmulationStation Desktop Editio
 
 Currently only supports 16:9 aspect ratio devices.
 
+<h2>Update 0.1.1</h2>
+* Added icon for missing collections (completed, now-playing)
+* Updated several systems and collections marquee and icon
+* Added fallback images to system and gamelist
+
 <h2>Update 0.1.0</h2>
   
 * Added new variant "Background Video (with Screenshot)"
