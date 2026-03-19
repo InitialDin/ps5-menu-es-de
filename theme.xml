@@ -1,13 +1,26 @@
 <theme>
 	
 	<include>./colors.xml</include>
-    <include>./fonts.xml</include>
     <include>./_inc/system/metadata/_default.xml</include>
     <include>./_inc/system/metadata/${system.theme}.xml</include>
     
     <variables>
         <spaceImage>./_inc/images/space.svg</spaceImage>
     </variables>
+    
+    <variables>
+        <fontLight>./_inc/fonts/SSTLight.ttf</fontLight>
+        <fontMedium>./_inc/fonts/SSTMedium.ttf</fontMedium>
+    </variables>
+
+    <fontSize name="small">
+        <variables>
+            <clockFontSize>0.0345</clockFontSize>
+            <carouselTitleFontSize>0.0360</carouselTitleFontSize>
+            <carouselTitleFontSizeLarge>0.0520</carouselTitleFontSizeLarge>
+            <metadataFontSize>0.0280</metadataFontSize>
+        </variables>
+    </fontSize>
     
     <view name="system, gamelist">
         <carousel name="system-carousel,gamelist-carousel">
@@ -19,7 +32,6 @@
             <unfocusedItemDimming>0.7</unfocusedItemDimming>
             <imageType>cover</imageType>
             <imageFit>cover</imageFit>
-            <imageCornerRadius>0.010</imageCornerRadius>
             <fastScrolling>true</fastScrolling>
             <color>00000000</color>
             <zIndex>40</zIndex>
@@ -65,7 +77,7 @@
             <origin>0 0.5</origin>
             <path>./_inc/system/logos/${system.theme}.png</path>
             <metadataElement>true</metadataElement>
-            <zIndex>60</zIndex>
+            <zIndex>30</zIndex>
         </image>
         <image name="metadata-background">
             <origin>0 0.5</origin>

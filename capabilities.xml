@@ -7,6 +7,15 @@
     
     <fontSize>small</fontSize>
     
+    <variant name="carousel-small">
+      <label>Carousel - Small</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="carousel-large">
+      <label>Carousel - Large</label>
+      <selectable>true</selectable>
+   </variant>
+    
     <colorScheme name="mediavideo">
         <label>Media Video</label>
     </colorScheme>
