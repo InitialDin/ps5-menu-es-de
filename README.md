@@ -20,8 +20,16 @@ A recreation of the PS5's menu screen for ES-DE (EmulationStation Desktop Editio
   * `Background Video (with Screenshot)` - Displays your scraped game videos on the background with your screenshots on the right (gamelist view)
 
 <h2>Preview</h2>
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/41dd67d2-a385-4bcc-83fb-97dbcdb4e784" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/94aafecd-a30f-477f-9d47-9ca19ca750e3" />
+
+| System View | Gamelist View |
+|---|---|
+| <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5bb4ddc6-9a37-46de-a135-f89b16d2667e" /> | <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a7e7d919-061e-43ac-a8cd-9af82c53917c" /> |
+| `16:9` , `Media Screenshot` , `Carousel - Small` | `16:9` , `Media Screenshot` , `Carousel - Small` |
+| <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/643378b8-c5f9-4379-a3ab-8a37c4735a18" /> | <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d7861658-ad60-489b-8d4f-8626e0b374fb" /> |
+| `16:9` , `Media Screenshot` , `Carousel - Large` | `16:9` , `Media Screenshot` , `Carousel - Large` |
+| <img width="2400" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c4d930fb-1471-40a0-b1a0-7f9431bf7c6f" /> | <img width="2400" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4d47ffd8-99d5-438d-b3c0-19017f28e7ae" /> |
+| `20:9` , `Media Screenshot` , `Carousel - Large` | `20:9` , `Media Screenshot` , `Carousel - Large` |
+
 
 <h2>Credits</h2>
 
@@ -29,7 +37,7 @@ A recreation of the PS5's menu screen for ES-DE (EmulationStation Desktop Editio
 
 * UI sounds and wallpaper from Sony's PlayStation 5
 
-* System icons from Siddy212's Canvas Theme with some edits by me
+* System Icons from Siddy212's Canvas Theme with some edits by me
 (https://github.com/Siddy212/canvas-es-de/)
 
 * Metadata icons from J. Armend's Oasis Theme with some edits by me
