@@ -31,6 +31,18 @@ You can replace the Avatar and Wallpaper with your own images by replacing the `
 | <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/643378b8-c5f9-4379-a3ab-8a37c4735a18" /> | <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d7861658-ad60-489b-8d4f-8626e0b374fb" /> |
 | System View `16:9` , `Media Screenshot` , `Carousel - Large` | Gamelist View `16:9` , `Media Screenshot` , `Carousel - Large` |
 
+| <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/8914fe9e-8484-458c-adf2-a1a8b0e6c61e" /> | <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/370f90b1-b6d8-428f-9b10-8b5e6edb733e" /> |
+|---|---|
+| Gamelist View `16:10` , `Media Video` , `Carousel - Small` | Gamelist View `16:10` , `Media Video` , `Carousel - Large` |
+
+| <img width="1440" height="1080" alt="Image" src="https://github.com/user-attachments/assets/472df8e5-c334-4319-9ebe-c462b3a991b9" /> | <img width="1440" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c5c793dd-3456-4760-bae1-cf9383a51127" /> |
+|---|---|
+| Gamelist View `4:3` , `Media Video` , `Carousel - Small` | Gamelist View `4:3` , `Media Video` , `Carousel - Large` |
+
+| <img width="1440" height="960" alt="Image" src="https://github.com/user-attachments/assets/f88e4c78-7094-496e-975e-17ca5486da04" /> | <img width="1440" height="960" alt="Image" src="https://github.com/user-attachments/assets/5b465e80-11c3-4e83-a1a5-adc37a7d4970" /> |
+|---|---|
+| Gamelist View `3:2` , `Media Video` , `Carousel - Small` | Gamelist View `3:2` , `Media Video` , `Carousel - Large` |
+
 | <img width="2400" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c4d930fb-1471-40a0-b1a0-7f9431bf7c6f" /> | <img width="2400" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4d47ffd8-99d5-438d-b3c0-19017f28e7ae" /> |
 |---|---|
 | Gamelist View `20:9` , `Media Screenshot` , `Carousel - Small` | Gamelist View `20:9` , `Media Screenshot` , `Carousel - Large` |
