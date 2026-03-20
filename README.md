@@ -5,7 +5,7 @@ A recreation of the PS5's menu screen for ES-DE (EmulationStation Desktop Editio
 
 * This theme has a simple set of options that can be changed directly from the UI Settings menu of ES-DE
 
-* `Theme Aspect Ratio` - Sets the aspect ratio that the theme will render at. This should happen automatically but if needed, this can be changed manually to match the aspect ratio of your screen. Only `16:9` and `20:9` are supported at the moment
+* `Theme Aspect Ratio` - Sets the aspect ratio that the theme will render at. This should happen automatically but if needed, this can be changed manually to match the aspect ratio of your screen. `16:9` , `16:10` , `4:3` , `3:2` and `20:9` are supported
 
 * `Theme Variant` - There are 2 variants to choose from, which will change the size of the system and gamelist carousel
   * `Carousel - Small`
