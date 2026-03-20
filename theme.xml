@@ -152,6 +152,8 @@
         </text>
         <video name="media-video">
             <gameselector>system-media-selector</gameselector>
+            <delay>0.5</delay>
+            <audio>false</audio>
         </video>
         <image name="media-screenshot">
         	<gameselector>system-media-selector</gameselector>
@@ -200,9 +202,6 @@
         	<path>./_inc/system/marquees/${system.theme}.svg</path>
         	<zIndex>24</zIndex>
         	</image>
-        	<video name="media-video">
-            <audio>${systemVideoAudio}</audio>
-        </video>
         <text name="system-tab">
             <color>${white}</color>
             <fontPath>${fontMedium}</fontPath>

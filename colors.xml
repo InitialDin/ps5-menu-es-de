@@ -19,7 +19,6 @@
             <playAudioOnly>0.830 0.730</playAudioOnly>
             <showBackgroundVideo>false</showBackgroundVideo>
             <showBackgroundArt>true</showBackgroundArt>
-            <systemVideoAudio>true</systemVideoAudio>
         </variables>
     </colorScheme>
     
@@ -30,7 +29,6 @@
             <playAudioOnly>0.830 0.730</playAudioOnly>
             <showBackgroundVideo>false</showBackgroundVideo>
             <showBackgroundArt>true</showBackgroundArt>
-            <systemVideoAudio>false</systemVideoAudio>
         </variables>
     </colorScheme>
     
@@ -41,7 +39,6 @@
             <playAudioOnly>999 999</playAudioOnly>
             <showBackgroundVideo>false</showBackgroundVideo>
             <showBackgroundArt>true</showBackgroundArt>
-            <systemVideoAudio>false</systemVideoAudio>
         </variables>
     </colorScheme>
     
@@ -52,7 +49,6 @@
             <playAudioOnly>0.830 0.730</playAudioOnly>
             <showBackgroundVideo>false</showBackgroundVideo>
             <showBackgroundArt>true</showBackgroundArt>
-            <systemVideoAudio>false</systemVideoAudio>
         </variables>
     </colorScheme>
     
@@ -63,7 +59,6 @@
             <playAudioOnly>0.830 0.730</playAudioOnly>
             <showBackgroundVideo>true</showBackgroundVideo>
             <showBackgroundArt>false</showBackgroundArt>
-            <systemVideoAudio>true</systemVideoAudio>
         </variables>
     </colorScheme>
     
@@ -74,7 +69,6 @@
             <playAudioOnly>0.830 0.730</playAudioOnly>
             <showBackgroundVideo>true</showBackgroundVideo>
             <showBackgroundArt>false</showBackgroundArt>
-            <systemVideoAudio>true</systemVideoAudio>
         </variables>
     </colorScheme>
 </theme>
