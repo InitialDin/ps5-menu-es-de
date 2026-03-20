@@ -23,15 +23,6 @@
         <text name="games-tab">
             <pos>0.180 0.050</pos>
         </text>
-        <text name="system-games-name">
-            <pos>0.220 0.233</pos>
-            <size>0.745 0.0695</size>
-            <fontSize>${carouselTitleFontSize}</fontSize>
-        </text>
-        <image name="gamesystem-logo">
-            <pos>0.195 0.265</pos>
-            <maxSize>0.05 0.05</maxSize>
-        </image>
         <image name="metadata-background">
             <pos>0.076 0.820</pos>
             <size>0.230 0.0621</size>
@@ -164,6 +155,15 @@
             <selectedItemMargins>0.015 0.015</selectedItemMargins>
             <itemSize>0.045 0.115</itemSize>
         </carousel>
+        <image name="gamesystem-logo">
+            <pos>0.195 0.265</pos>
+            <maxSize>0.05 0.05</maxSize>
+        </image>
+        <text name="system-games-name">
+            <pos>0.223 0.231</pos>
+            <size>0.745 0.0695</size>
+            <fontSize>${carouselTitleFontSize}</fontSize>
+        </text>
         </view>
    </variant>
    
