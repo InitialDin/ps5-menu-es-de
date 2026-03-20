@@ -25,25 +25,25 @@ You can replace the Avatar and Wallpaper with your own images by replacing the `
 
 <h2>Preview</h2>
 
-| <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5bb4ddc6-9a37-46de-a135-f89b16d2667e" /> | <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a7e7d919-061e-43ac-a8cd-9af82c53917c" /> |
+| <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/477455e1-8b33-4263-90c9-1ab0d2b9675a" /> | <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/643378b8-c5f9-4379-a3ab-8a37c4735a18" /> |
 |---|---|
-| System View `16:9` , `Media Screenshot` , `Carousel - Small` | Gamelist View `16:9` , `Media Screenshot` , `Carousel - Small` |
-| <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/643378b8-c5f9-4379-a3ab-8a37c4735a18" /> | <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d7861658-ad60-489b-8d4f-8626e0b374fb" /> |
-| System View `16:9` , `Media Screenshot` , `Carousel - Large` | Gamelist View `16:9` , `Media Screenshot` , `Carousel - Large` |
+| System View `16:9` , `Media Screenshot` , `Carousel - Small` | System View `16:9` , `Media Screenshot` , `Carousel - Large` |
+| <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/88c5a796-ef63-430a-83fc-61cda9252202" /> | <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ccc10231-ed11-4f54-80c9-83dd29c5dc3c" /> |
+| Gamelist View `16:9` , `Media Screenshot` , `Carousel - Large` | Gamelist View `16:9` , `Media Screenshot` , `Carousel - Large` |
 
-| <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/8914fe9e-8484-458c-adf2-a1a8b0e6c61e" /> | <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/370f90b1-b6d8-428f-9b10-8b5e6edb733e" /> |
+| <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/16847656-9461-497f-ac5b-bca41e6f6350" /> | <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/9e8f96a2-2fa9-457a-8556-470c27ed96de" /> |
 |---|---|
 | Gamelist View `16:10` , `Media Video` , `Carousel - Small` | Gamelist View `16:10` , `Media Video` , `Carousel - Large` |
 
-| <img width="1440" height="1080" alt="Image" src="https://github.com/user-attachments/assets/472df8e5-c334-4319-9ebe-c462b3a991b9" /> | <img width="1440" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c5c793dd-3456-4760-bae1-cf9383a51127" /> |
+| <img width="1440" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9f2ec9de-1668-4266-8eed-00a1e943beb4" /> | <img width="1440" height="1080" alt="Image" src="https://github.com/user-attachments/assets/67eb6316-43ff-4ff7-8b76-b846680100a0" /> |
 |---|---|
 | Gamelist View `4:3` , `Media Video` , `Carousel - Small` | Gamelist View `4:3` , `Media Video` , `Carousel - Large` |
 
-| <img width="1440" height="960" alt="Image" src="https://github.com/user-attachments/assets/f88e4c78-7094-496e-975e-17ca5486da04" /> | <img width="1440" height="960" alt="Image" src="https://github.com/user-attachments/assets/5b465e80-11c3-4e83-a1a5-adc37a7d4970" /> |
+| <img width="1440" height="960" alt="Image" src="https://github.com/user-attachments/assets/4151be8d-519c-4db3-aaf8-7144607b557a" /> | <img width="1440" height="960" alt="Image" src="https://github.com/user-attachments/assets/ba67b20a-cc87-445a-be8e-7fdc77f8a4ec" /> |
 |---|---|
 | Gamelist View `3:2` , `Media Video` , `Carousel - Small` | Gamelist View `3:2` , `Media Video` , `Carousel - Large` |
 
-| <img width="2400" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c4d930fb-1471-40a0-b1a0-7f9431bf7c6f" /> | <img width="2400" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4d47ffd8-99d5-438d-b3c0-19017f28e7ae" /> |
+| <img width="2400" height="1080" alt="Image" src="https://github.com/user-attachments/assets/104bcff9-711c-4d69-aa7c-ace8fa9fab35" /> | <img width="2400" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0255c161-d081-47e9-9e2c-dec64ec780b0" /> |
 |---|---|
 | Gamelist View `20:9` , `Media Screenshot` , `Carousel - Small` | Gamelist View `20:9` , `Media Screenshot` , `Carousel - Large` |
 
