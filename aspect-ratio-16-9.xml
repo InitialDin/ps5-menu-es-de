@@ -121,9 +121,9 @@
             <size>0.0016 0.0611</size>
         </image>
         <badges name="gamelist-badges-right">
-            <size>0.292 1</size>
+            <size>0.163 1</size>
             <itemMargin>0.008 0</itemMargin>
-            <pos>0.370 0.784</pos>
+            <pos>0.370 0.785</pos>
         </badges>
         <badges name="gamelist-badges-left">
             <size>0.159 1</size>

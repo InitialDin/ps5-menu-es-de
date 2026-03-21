@@ -233,7 +233,6 @@
         	<origin>0 0</origin>
             <metadata>sourceSystemFullname</metadata>
             <container>true</container>
-            <verticalAlignment>left</verticalAlignment>
             <horizontalAlignment>left</horizontalAlignment>
             <fontPath>${fontLight}</fontPath>
             <color>${greyUnfocused}</color>
@@ -346,7 +345,7 @@
             <origin>0 0</origin>
             <horizontalAlignment>left</horizontalAlignment>
             <direction>row</direction>
-            <lines>1</lines>
+            <lines>7</lines>
             <slots>favorite,completed,collection,manual,folder,kidgame,broken</slots>
             <customBadgeIcon badge="favorite">./_inc/images/badge-favorite.svg</customBadgeIcon>
             <customBadgeIcon badge="completed">./_inc/images/badge-completed.svg</customBadgeIcon>
