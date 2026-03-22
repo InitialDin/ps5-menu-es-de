@@ -1,6 +1,12 @@
 # PS5 Menu Theme for ES-DE
 A recreation of the PS5's menu screen for ES-DE (EmulationStation Desktop Edition)
 
+<h2>Customization</h2>
+
+You can replace the default Avatar with your own by naming your custom image as `avatar.png` and putting it into the "customizations" folder.
+
+**(Files in this folder will remain untouched when updated via ES-DE, so your Avatar will not reset back to default)**
+
 <h2>Configuration Options</h2>
 
 * This theme has a simple set of options that can be changed directly from the UI Settings menu of ES-DE
@@ -19,12 +25,6 @@ A recreation of the PS5's menu screen for ES-DE (EmulationStation Desktop Editio
   * `No Media` - Doesn't display any media on your system and gamelist view
   * `Background Video` - Displays your scraped game videos on the background (gamelist view)
   * `Background Video (with Screenshot)` - Displays your scraped game videos on the background with your screenshots on the right (gamelist view)
-
-<h2>Customization</h2>
-
-You can replace the Avatar and Wallpaper with your own images by replacing the `avatar.png` and `background.png` in the "customizations" folder.
-
-**(Files in this folder will not be replaced when updated via ES-DE)**
 
 <h2>Preview</h2>
 
