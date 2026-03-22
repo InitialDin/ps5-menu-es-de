@@ -22,7 +22,9 @@ A recreation of the PS5's menu screen for ES-DE (EmulationStation Desktop Editio
 
 <h2>Customization</h2>
 
-You can replace the Avatar and Wallpaper with your own images by replacing the `avatar.png` and `background.png` in the "customizations" folder. Files in this folder will not be replaced when updated via ES-DE
+You can replace the Avatar and Wallpaper with your own images by replacing the `avatar.png` and `background.png` in the "customizations" folder.
+
+**(Files in this folder will not be replaced when updated via ES-DE)**
 
 <h2>Preview</h2>
 
