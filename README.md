@@ -15,6 +15,7 @@ A recreation of the PS5's menu screen for ES-DE (EmulationStation Desktop Editio
   * `Media Video` - Displays your scraped game videos on the right (system and gamelist view)
   * `Media Screenshot` - Displays your scraped game screenshots on the right (system and gamelist view)
   * `Media Video (Audio Only)` - Plays only the audio of your scraped game video, meant to replicate the PS5 game menu theme music (gamelist view)
+  * `Media Video (Audio Only + Screenshot)` - Plays only the audio of your scraped game video, with your scraped screenshot on the right (system and gamelist view)
   * `No Media` - Doesn't display any media on your system and gamelist view
   * `Background Video` - Displays your scraped game videos on the background (gamelist view)
   * `Background Video (with Screenshot)` - Displays your scraped game videos on the background with your screenshots on the right (gamelist view)
