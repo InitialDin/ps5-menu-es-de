@@ -29,11 +29,9 @@
             <cornerRadius>0.0193</cornerRadius> 
         </image>
         <image name="media-screenshot">
-        	<pos>0.830 0.730</pos>
         	<maxSize>0.250 0.3250</maxSize>
             </image>
             <video name="media-video">
-            <pos>${playAudioOnly}</pos>
             <cropSize>0.250 0.280</cropSize>
         </video>
         <image name="default-avatar-icon">
@@ -73,13 +71,22 @@
             <pos>0.330 0.815</pos>
             <size>0.0016 0.0611</size>
         </image>
+        <image name="metadata-lastplayed-background">
+            <pos>0.680 0.815</pos>
+            <size>0.285 0.0621</size>
+            <cornerRadius>0.0188</cornerRadius> 
+        </image>
+        <image name="system-lastplayed-divider">
+            <pos>0.735 0.815</pos>
+            <size>0.0016 0.0611</size>
+        </image>
         <image name="system-lastplayed-icon">
-            <pos>0.110 0.715</pos>
-            <size>0 0.0310</size>
+            <pos>0.700 0.815</pos>
+            <size>0 0.0340</size>
         </image>
         <text name="system-lastplayed">
-            <pos>0.300 0.710</pos>
-            <size>0.350 0.0695</size>
+            <pos>0.743 0.815</pos>
+            <size>0.213 0.0444</size>
             <fontSize>${metadataFontSize}</fontSize>
         </text>
         <image name="system-marquee">

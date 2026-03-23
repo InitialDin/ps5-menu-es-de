@@ -106,7 +106,7 @@
             <metadataElement>true</metadataElement>
             <zIndex>40</zIndex>
         </image>
-        <image name="metadata-background">
+        <image name="metadata-background,metadata-lastplayed-background">
             <origin>0 0.5</origin>
             <path>${spaceImage}</path>
             <tile>true</tile>
@@ -114,6 +114,13 @@
             <color>${grey}</color>
             <opacity>0.5</opacity>
             <zIndex>40</zIndex>
+        </image>
+        <image name="system-metadata-divider,system-lastplayed-divider,gamelist-metadata-left-divider,gamelist-metadata-middle-divider">
+        	<origin>0 0.5</origin>
+            <path>${spaceImage}</path>
+            <tile>true</tile>
+            <color>${divider}</color>
+            <zIndex>52</zIndex>
         </image>
         <video name="media-video">
             <origin>0.5 0.5</origin>
@@ -124,15 +131,16 @@
             <fadeInType>black</fadeInType>
             <fadeInTime>0.5</fadeInTime>
             <imageType>none</imageType>
+            <visible>${showMediaVideoSystem}</visible>
             <delay>1</delay>
             <zIndex>21</zIndex>
-            <visible>${showMediaVideo}</visible>
             <zIndex>40</zIndex>
         </video>
         <image name="media-screenshot">
         	<origin>0.5 0.5</origin>
         	<imageType>screenshot</imageType>
         	<cornerRadius>0.010</cornerRadius>
+        	<pos>0.830 0.700</pos>
         	<visible>${showMediaScreenshot}</visible>
         	<zIndex>40</zIndex>
         	</image>
@@ -168,30 +176,36 @@
         	<text name="system-games-name">
         		<systemdata>fullname</systemdata>
         </text>
+        <image name="metadata-lastplayed-background,system-lastplayed-divider,system-lastplayed-icon">
+        	<visible>${showLastPlayed}</visible>
+        </image>
         <image name="system-lastplayed-icon">
-            <origin>0.5 0</origin>
+            <origin>0 0.5</origin>
             <path>./_inc/images/icon-lastplayed.svg</path>
             <color>${white}</color>
             <zIndex>40</zIndex>
         </image>
         <text name="system-lastplayed">
-        	<origin>0.5 0</origin>
+        	<origin>0 0.5</origin>
             <metadata>name</metadata>
             <systemNameSuffix>false</systemNameSuffix>
             <container>true</container>
+            <containerType>horizontal</containerType>
             <horizontalAlignment>left</horizontalAlignment>
-            <fontPath>${fontLight}</fontPath>
-            <opacity>0.9</opacity>
+            <fontPath>${fontMedium}</fontPath>
             <color>${white}</color>
+            <visible>${showLastPlayed}</visible>
             <zIndex>40</zIndex>
         </text>
         <video name="media-video">
             <gameselector>system-media-selector</gameselector>
             <delay>0.5</delay>
             <audio>false</audio>
+            <pos>0.825 0.600</pos>
         </video>
         <image name="media-screenshot">
         	<gameselector>system-media-selector</gameselector>
+        	<pos>0.825 0.600</pos>
         </image>
         <gameselector name="system-media-selector">
             <selection>lastplayed</selection>
@@ -225,13 +239,6 @@
             <color>${white}</color>
             <zIndex>60</zIndex>
         </text>
-        <image name="system-metadata-divider">
-            <origin>0 0.5</origin>
-            <path>${spaceImage}</path>
-            <tile>true</tile>
-            <color>${divider}</color>
-            <zIndex>52</zIndex>
-        </image>
         <image name="system-marquee">
         	<origin>0.5 0.5</origin>
         	<path>./_inc/system/marquees/${system.theme}.svg</path>
@@ -287,7 +294,7 @@
             <iterationCount>0</iterationCount>
             <audio>true</audio>
             <interpolation>nearest</interpolation>
-            <delay>2</delay>
+            <delay>1.3</delay>
             <fadeInType>transparent</fadeInType>
             <fadeInTime>0.5</fadeInTime>
             <scrollFadeIn>true</scrollFadeIn>
@@ -375,20 +382,6 @@
             <color>${white}</color>
             <zIndex>45</zIndex>
         </text>
-        <image name="gamelist-metadata-left-divider">
-            <origin>0 0.5</origin>
-            <path>${spaceImage}</path>
-            <tile>true</tile>
-            <color>${divider}</color>
-            <zIndex>45</zIndex>
-        </image>
-        <image name="gamelist-metadata-middle-divider">
-            <origin>0 0.5</origin>
-            <path>${spaceImage}</path>
-            <tile>true</tile>
-            <color>${divider}</color>
-            <zIndex>45</zIndex>
-        </image>
         <badges name="gamelist-badges-right">
             <origin>0 0</origin>
             <horizontalAlignment>left</horizontalAlignment>
@@ -418,6 +411,10 @@
         	<imageType>marquee</imageType>
         	<zIndex>40</zIndex>
         	</image>
+        	<video name="media-video">
+            <pos>${mediaVideoPos}</pos>
+            <visible>${showMediaVideoGamelist}</visible>
+        </video>
     </view>
 
 	<aspectRatio name="16:9">

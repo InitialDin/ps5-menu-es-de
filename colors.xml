@@ -13,9 +13,11 @@
     
     <colorScheme name="mediavideo">
         <variables>
-            <showMediaVideo>true</showMediaVideo>
+            <showMediaVideoSystem>true</showMediaVideoSystem>
+            <showMediaVideoGamelist>true</showMediaVideoGamelist>
+            <showLastPlayed>true</showLastPlayed>
             <showMediaScreenshot>false</showMediaScreenshot>
-            <playAudioOnly>0.830 0.730</playAudioOnly>
+            <mediaVideoPos>0.830 0.725</mediaVideoPos>
             <showBackgroundVideo>false</showBackgroundVideo>
             <showBackgroundArt>true</showBackgroundArt>
         </variables>
@@ -23,9 +25,11 @@
     
     <colorScheme name="mediascreenshot">
         <variables>
-            <showMediaVideo>false</showMediaVideo>
+            <showMediaVideoSystem>false</showMediaVideoSystem>
+            <showMediaVideoGamelist>false</showMediaVideoGamelist>
+            <showLastPlayed>true</showLastPlayed>
             <showMediaScreenshot>true</showMediaScreenshot>
-            <playAudioOnly>0.830 0.730</playAudioOnly>
+            <mediaVideoPos>0.830 0.700</mediaVideoPos>
             <showBackgroundVideo>false</showBackgroundVideo>
             <showBackgroundArt>true</showBackgroundArt>
         </variables>
@@ -33,9 +37,11 @@
     
     <colorScheme name="mediavideo-audio">
         <variables>
-            <showMediaVideo>true</showMediaVideo>
+            <showMediaVideoSystem>true</showMediaVideoSystem>
+            <showMediaVideoGamelist>true</showMediaVideoGamelist>
+            <showLastPlayed>true</showLastPlayed>
             <showMediaScreenshot>false</showMediaScreenshot>
-            <playAudioOnly>999 999</playAudioOnly>
+            <mediaVideoPos>999 999</mediaVideoPos>
             <showBackgroundVideo>false</showBackgroundVideo>
             <showBackgroundArt>true</showBackgroundArt>
         </variables>
@@ -43,9 +49,11 @@
     
     <colorScheme name="mediavideo-audio-screenshot">
         <variables>
-            <showMediaVideo>true</showMediaVideo>
+            <showMediaVideoSystem>false</showMediaVideoSystem>
+            <showMediaVideoGamelist>true</showMediaVideoGamelist>
+            <showLastPlayed>true</showLastPlayed>
             <showMediaScreenshot>true</showMediaScreenshot>
-            <playAudioOnly>999 999</playAudioOnly>
+            <mediaVideoPos>999 999</mediaVideoPos>
             <showBackgroundVideo>false</showBackgroundVideo>
             <showBackgroundArt>true</showBackgroundArt>
         </variables>
@@ -53,9 +61,11 @@
     
     <colorScheme name="nomedia">
         <variables>
-            <showMediaVideo>false</showMediaVideo>
+            <showMediaVideoSystem>false</showMediaVideoSystem>
+            <showMediaVideoGamelist>false</showMediaVideoGamelist>
+            <showLastPlayed>false</showLastPlayed>
             <showMediaScreenshot>false</showMediaScreenshot>
-            <playAudioOnly>0.830 0.730</playAudioOnly>
+            <mediaVideoPos>0.830 0.725</mediaVideoPos>
             <showBackgroundVideo>false</showBackgroundVideo>
             <showBackgroundArt>true</showBackgroundArt>
         </variables>
@@ -63,9 +73,11 @@
     
     <colorScheme name="backgroundvideo">
         <variables>
-            <showMediaVideo>false</showMediaVideo>
+            <showMediaVideoSystem>true</showMediaVideoSystem>
+            <showMediaVideoGamelist>false</showMediaVideoGamelist>
+            <showLastPlayed>true</showLastPlayed>
             <showMediaScreenshot>false</showMediaScreenshot>
-            <playAudioOnly>0.830 0.730</playAudioOnly>
+            <mediaVideoPos>0.830 0.725</mediaVideoPos>
             <showBackgroundVideo>true</showBackgroundVideo>
             <showBackgroundArt>false</showBackgroundArt>
         </variables>
@@ -73,9 +85,11 @@
     
     <colorScheme name="backgroundvideo-screenshot">
         <variables>
-            <showMediaVideo>false</showMediaVideo>
+            <showMediaVideoSystem>false</showMediaVideoSystem>
+            <showMediaVideoGamelist>false</showMediaVideoGamelist>
+            <showLastPlayed>true</showLastPlayed>
             <showMediaScreenshot>true</showMediaScreenshot>
-            <playAudioOnly>0.830 0.730</playAudioOnly>
+            <mediaVideoPos>0.830 0.725</mediaVideoPos>
             <showBackgroundVideo>true</showBackgroundVideo>
             <showBackgroundArt>false</showBackgroundArt>
         </variables>
