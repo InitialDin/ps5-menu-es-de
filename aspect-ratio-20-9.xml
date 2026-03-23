@@ -136,11 +136,11 @@
         <badges name="gamelist-badges-right">
             <size>0.134 1</size>
             <itemMargin>0.006 0</itemMargin>
-            <pos>0.312 0.789</pos>
+            <pos>0.312 0.790</pos>
         </badges>
         <badges name="gamelist-badges-left">
             <size>0.134 1</size>
-            <itemMargin>0.008 0</itemMargin>
+            <itemMargin>0.006 0</itemMargin>
             <pos>0.043 0.790</pos>
         </badges>
         <text name="gamelist-genre-name">
