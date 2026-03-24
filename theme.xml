@@ -309,9 +309,8 @@
         	<origin>0 0</origin>
         	<pos>0 0</pos>
             <cropSize>1 1</cropSize>
-            <color>080808</color>
-            <opacity>0.8</opacity>
-            <path>./_inc/images/background-gradient.svg</path>
+            <opacity>0.78</opacity>
+            <path>./_inc/images/background-gradient.png</path>
             <zIndex>31</zIndex>
       </image>
         <text name="system-tab">
