@@ -13,21 +13,25 @@ You can replace the default Avatar with your own by naming your custom image as 
 
 * `Theme Aspect Ratio` - Sets the aspect ratio that the theme will render at. This should happen automatically but if needed, this can be changed manually to match the aspect ratio of your screen. `16:9` , `16:10` , `4:3` , `3:2` and `20:9` are supported
 
-* `Theme Variant` - There are 2 variants to choose from, which will change the size of the system and gamelist carousel
+* `Theme Variant` - There are 6 theme variants to choose from
   * `Carousel - Small`
   * `Carousel - Large`
+  * `Carousel - Small | XMB (Cover)`
+  * `Carousel - Small | XMB (Marquee)`
+  * `Carousel - Large | XMB (Cover)`
+  * `Carousel - Large | XMB (Marquee)`
  
 * `Theme Color Scheme` - This lets you pick what you want to see on your system and gamelist view
-  * `Media Video` - Displays your scraped game videos on the right (system and gamelist view)
-  * `Media Screenshot` - Displays your scraped game screenshots on the right (system and gamelist view)
-  * `Media Mix Image` - Displays your scraped game mix image on the right (system and gamelist view)
-  * `Media Video (Audio Only)` - Plays only the audio of your scraped game video, meant to replicate the PS5 game menu theme music (gamelist view)
-  * `Media Video (Audio Only + Screenshot)` - Plays only the audio of your scraped game video, with your scraped screenshot on the right (system and gamelist view)
-  * `Media Video (Audio Only + Mix Image)` - Plays only the audio of your scraped game video, with your scraped mix image on the right (system and gamelist view)
-  * `No Media` - Doesn't display any media on your system and gamelist view
+  * `Media - Video` - Displays your scraped game videos on the right (system and gamelist view)
+  * `Media - Screenshot` - Displays your scraped game screenshots on the right (system and gamelist view)
+  * `Media - Mix Image` - Displays your scraped game mix image on the right (system and gamelist view)
+  * `Media - Video (Audio Only)` - Plays only the audio of your scraped game video, meant to replicate the PS5 game menu theme music (gamelist view)
+  * `Media - Video (Audio Only + Screenshot)` - Plays only the audio of your scraped game video, with your scraped screenshot on the right (system and gamelist view)
+  * `Media - Video (Audio Only + Mix Image)` - Plays only the audio of your scraped game video, with your scraped mix image on the right (system and gamelist view)
   * `Background Video` - Displays your scraped game videos on the background (gamelist view)
-  * `Background Video (with Screenshot)` - Displays your scraped game videos on the background with your screenshots on the right (gamelist view)
-  * `Background Video (with Mix Image)` - Displays your scraped game videos on the background with your mix image on the right (gamelist view)
+  * `Background Video (Screenshot)` - Displays your scraped game videos on the background with your screenshots on the right (gamelist view)
+  * `Background Video (Mix Image)` - Displays your scraped game videos on the background with your mix image on the right (gamelist view)
+  * `No Media` - Doesn't display any media on your system and gamelist view
 
 <h2>Preview</h2>
 
