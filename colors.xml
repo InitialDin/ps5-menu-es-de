@@ -15,12 +15,14 @@
         <variables>
             <showMediaVideoSystem>true</showMediaVideoSystem>
             <showMediaVideoGamelist>true</showMediaVideoGamelist>
+            <showMediaVideoXMB>true</showMediaVideoXMB>
             <MediaVideoAudioOnly>40</MediaVideoAudioOnly>
             <showLastPlayed>true</showLastPlayed>
             <showMediaScreenshot>false</showMediaScreenshot>
             <showMediaMixImage>false</showMediaMixImage>
             <showBackgroundVideo>false</showBackgroundVideo>
             <showBackgroundArt>true</showBackgroundArt>
+            <showMarqueeXMB>true</showMarqueeXMB>
         </variables>
     </colorScheme>
     
@@ -28,12 +30,14 @@
         <variables>
             <showMediaVideoSystem>false</showMediaVideoSystem>
             <showMediaVideoGamelist>false</showMediaVideoGamelist>
+            <showMediaVideoXMB>true</showMediaVideoXMB>
             <MediaVideoAudioOnly>40</MediaVideoAudioOnly>
             <showLastPlayed>true</showLastPlayed>
             <showMediaScreenshot>true</showMediaScreenshot>
             <showMediaMixImage>false</showMediaMixImage>
             <showBackgroundVideo>false</showBackgroundVideo>
             <showBackgroundArt>true</showBackgroundArt>
+            <showMarqueeXMB>false</showMarqueeXMB>
         </variables>
     </colorScheme>
     
@@ -41,12 +45,14 @@
         <variables>
             <showMediaVideoSystem>true</showMediaVideoSystem>
             <showMediaVideoGamelist>false</showMediaVideoGamelist>
+            <showMediaVideoXMB>true</showMediaVideoXMB>
             <MediaVideoAudioOnly>40</MediaVideoAudioOnly>
             <showLastPlayed>true</showLastPlayed>
             <showMediaScreenshot>false</showMediaScreenshot>
             <showMediaMixImage>true</showMediaMixImage>
             <showBackgroundVideo>false</showBackgroundVideo>
             <showBackgroundArt>true</showBackgroundArt>
+            <showMarqueeXMB>false</showMarqueeXMB>
         </variables>
     </colorScheme>
     
@@ -54,12 +60,14 @@
         <variables>
             <showMediaVideoSystem>true</showMediaVideoSystem>
             <showMediaVideoGamelist>true</showMediaVideoGamelist>
+            <showMediaVideoXMB>true</showMediaVideoXMB>
             <MediaVideoAudioOnly>0</MediaVideoAudioOnly>
             <showLastPlayed>true</showLastPlayed>
             <showMediaScreenshot>false</showMediaScreenshot>
             <showMediaMixImage>false</showMediaMixImage>
             <showBackgroundVideo>false</showBackgroundVideo>
             <showBackgroundArt>true</showBackgroundArt>
+            <showMarqueeXMB>true</showMarqueeXMB>
         </variables>
     </colorScheme>
     
@@ -67,12 +75,14 @@
         <variables>
             <showMediaVideoSystem>false</showMediaVideoSystem>
             <showMediaVideoGamelist>true</showMediaVideoGamelist>
+            <showMediaVideoXMB>true</showMediaVideoXMB>
             <MediaVideoAudioOnly>0</MediaVideoAudioOnly>
             <showLastPlayed>true</showLastPlayed>
             <showMediaScreenshot>true</showMediaScreenshot>
             <showMediaMixImage>false</showMediaMixImage>
             <showBackgroundVideo>false</showBackgroundVideo>
             <showBackgroundArt>true</showBackgroundArt>
+            <showMarqueeXMB>false</showMarqueeXMB>
         </variables>
     </colorScheme>
     
@@ -80,25 +90,14 @@
         <variables>
             <showMediaVideoSystem>true</showMediaVideoSystem>
             <showMediaVideoGamelist>true</showMediaVideoGamelist>
+            <showMediaVideoXMB>true</showMediaVideoXMB>
             <MediaVideoAudioOnly>0</MediaVideoAudioOnly>
             <showLastPlayed>true</showLastPlayed>
             <showMediaScreenshot>false</showMediaScreenshot>
             <showMediaMixImage>true</showMediaMixImage>
             <showBackgroundVideo>false</showBackgroundVideo>
             <showBackgroundArt>true</showBackgroundArt>
-        </variables>
-    </colorScheme>
-    
-    <colorScheme name="nomedia">
-        <variables>
-            <showMediaVideoSystem>false</showMediaVideoSystem>
-            <showMediaVideoGamelist>false</showMediaVideoGamelist>
-            <MediaVideoAudioOnly>0</MediaVideoAudioOnly>
-            <showLastPlayed>false</showLastPlayed>
-            <showMediaScreenshot>false</showMediaScreenshot>
-            <showMediaMixImage>false</showMediaMixImage>
-            <showBackgroundVideo>false</showBackgroundVideo>
-            <showBackgroundArt>true</showBackgroundArt>
+            <showMarqueeXMB>false</showMarqueeXMB>
         </variables>
     </colorScheme>
     
@@ -106,12 +105,14 @@
         <variables>
             <showMediaVideoSystem>true</showMediaVideoSystem>
             <showMediaVideoGamelist>false</showMediaVideoGamelist>
+            <showMediaVideoXMB>false</showMediaVideoXMB>
             <MediaVideoAudioOnly>40</MediaVideoAudioOnly>
             <showLastPlayed>true</showLastPlayed>
             <showMediaScreenshot>false</showMediaScreenshot>
             <showMediaMixImage>false</showMediaMixImage>
             <showBackgroundVideo>true</showBackgroundVideo>
             <showBackgroundArt>false</showBackgroundArt>
+            <showMarqueeXMB>true</showMarqueeXMB>
         </variables>
     </colorScheme>
     
@@ -119,12 +120,14 @@
         <variables>
             <showMediaVideoSystem>false</showMediaVideoSystem>
             <showMediaVideoGamelist>false</showMediaVideoGamelist>
+            <showMediaVideoXMB>false</showMediaVideoXMB>
             <MediaVideoAudioOnly>40</MediaVideoAudioOnly>
             <showLastPlayed>true</showLastPlayed>
             <showMediaScreenshot>true</showMediaScreenshot>
             <showMediaMixImage>false</showMediaMixImage>
             <showBackgroundVideo>true</showBackgroundVideo>
             <showBackgroundArt>false</showBackgroundArt>
+            <showMarqueeXMB>false</showMarqueeXMB>
         </variables>
     </colorScheme>
     
@@ -132,12 +135,30 @@
         <variables>
             <showMediaVideoSystem>true</showMediaVideoSystem>
             <showMediaVideoGamelist>false</showMediaVideoGamelist>
+            <showMediaVideoXMB>false</showMediaVideoXMB>
             <MediaVideoAudioOnly>40</MediaVideoAudioOnly>
             <showLastPlayed>true</showLastPlayed>
             <showMediaScreenshot>false</showMediaScreenshot>
             <showMediaMixImage>true</showMediaMixImage>
             <showBackgroundVideo>true</showBackgroundVideo>
             <showBackgroundArt>false</showBackgroundArt>
+            <showMarqueeXMB>false</showMarqueeXMB>
         </variables>
     </colorScheme>
+    
+    <colorScheme name="nomedia">
+        <variables>
+            <showMediaVideoSystem>false</showMediaVideoSystem>
+            <showMediaVideoGamelist>false</showMediaVideoGamelist>
+            <showMediaVideoXMB>false</showMediaVideoXMB>
+            <MediaVideoAudioOnly>0</MediaVideoAudioOnly>
+            <showLastPlayed>false</showLastPlayed>
+            <showMediaScreenshot>false</showMediaScreenshot>
+            <showMediaMixImage>false</showMediaMixImage>
+            <showBackgroundVideo>false</showBackgroundVideo>
+            <showBackgroundArt>true</showBackgroundArt>
+            <showMarqueeXMB>false</showMarqueeXMB>
+        </variables>
+    </colorScheme>
+    
 </theme>

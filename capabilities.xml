@@ -9,43 +9,59 @@
 	<aspectRatio>20:9</aspectRatio>
     
     <variant name="carousel-small">
-      <label>Carousel - Small</label>
+      <label>Carousel (Small)</label>
       <selectable>true</selectable>
    </variant>
    <variant name="carousel-large">
-      <label>Carousel - Large</label>
+      <label>Carousel (Large)</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="carousel-xmb-cover-small">
+      <label>Carousel (Small) | XMB (Cover)</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="carousel-xmb-marquee-small">
+      <label>Carousel (Small) | XMB (Marquee)</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="carousel-xmb-cover-large">
+      <label>Carousel (Large) | XMB (Cover)</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="carousel-xmb-marquee-large">
+      <label>Carousel (Large) | XMB (Marquee)</label>
       <selectable>true</selectable>
    </variant>
     
     <colorScheme name="mediavideo">
-        <label>Media Video</label>
+        <label>Media - Video</label>
     </colorScheme>
     <colorScheme name="mediascreenshot">
-        <label>Media Screenshot</label>
+        <label>Media - Screenshot</label>
     </colorScheme>
     <colorScheme name="mediamiximage">
-        <label>Media Mix Image</label>
+        <label>Media - Mix Image</label>
     </colorScheme>
     <colorScheme name="mediavideo-audio">
-        <label>Media Video (Audio Only)</label>
+        <label>Media - Video (Audio Only)</label>
     </colorScheme>
     <colorScheme name="mediavideo-audio-screenshot">
-        <label>Media Video (Audio Only + Screenshot)</label>
+        <label>Media - Video (Audio Only + Screenshot)</label>
     </colorScheme>
     <colorScheme name="mediavideo-audio-miximage">
-        <label>Media Video (Audio Only + Mix Image)</label>
-    </colorScheme>
-    <colorScheme name="nomedia">
-        <label>No Media</label>
+        <label>Media - Video (Audio Only + Mix Image)</label>
     </colorScheme>
     <colorScheme name="backgroundvideo">
         <label>Background Video</label>
     </colorScheme>
     <colorScheme name="backgroundvideo-screenshot">
-        <label>Background Video (with Screenshot)</label>
+        <label>Background Video (Screenshot)</label>
     </colorScheme>
     <colorScheme name="backgroundvideo-miximage">
-        <label>Background Video (with Mix Image)</label>
+        <label>Background Video (Mix Image)</label>
+    </colorScheme>
+    <colorScheme name="nomedia">
+        <label>No Media</label>
     </colorScheme>
 
     <transitions name="transitions">

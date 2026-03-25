@@ -50,19 +50,6 @@
          <origin>1 1</origin>
          <pos>0.9779792 0.9768519</pos>
       </helpsystem>
-        <carousel name="system-carousel,gamelist-carousel">
-            <origin>0 0</origin>
-            <defaultImage>./_inc/system/icons/_default_game.webp</defaultImage>
-            <defaultFolderImage>./_inc/system/icons/_default_sys.webp</defaultFolderImage>
-            <staticImage>./_inc/system/icons/${system.theme}.webp</staticImage>
-            <unfocusedItemOpacity>0.9</unfocusedItemOpacity>
-            <unfocusedItemDimming>0.9</unfocusedItemDimming>
-            <imageType>cover</imageType>
-            <imageFit>cover</imageFit>
-            <fastScrolling>true</fastScrolling>
-            <color>00000000</color>
-            <zIndex>40</zIndex>
-        </carousel>
         <image name="background-wallpaper">
         	<origin>0 0</origin>
         	<pos>0 0</pos>
@@ -104,7 +91,7 @@
             <origin>0 0.5</origin>
             <path>./_inc/system/logos/${system.theme}.png</path>
             <metadataElement>true</metadataElement>
-            <zIndex>39</zIndex>
+            <zIndex>40</zIndex>
         </image>
         <image name="metadata-background,metadata-lastplayed-background">
             <origin>0 0.5</origin>
@@ -170,6 +157,19 @@
       <helpsystem name="help-right">
          <entries>a</entries>
       </helpsystem>
+      <carousel name="system-carousel">
+            <origin>0 0</origin>
+            <defaultImage>./_inc/system/icons/_default_game.webp</defaultImage>
+            <defaultFolderImage>./_inc/system/icons/_default_sys.webp</defaultFolderImage>
+            <staticImage>./_inc/system/icons/${system.theme}.webp</staticImage>
+            <unfocusedItemOpacity>0.9</unfocusedItemOpacity>
+            <unfocusedItemDimming>0.9</unfocusedItemDimming>
+            <imageType>cover</imageType>
+            <imageFit>cover</imageFit>
+            <fastScrolling>true</fastScrolling>
+            <color>00000000</color>
+            <zIndex>40</zIndex>
+        </carousel>
         	<text name="system-games-name">
         		<systemdata>fullname</systemdata>
         </text>
@@ -405,10 +405,6 @@
         	<imageType>marquee</imageType>
         	<zIndex>40</zIndex>
         	</image>
-        	<video name="media-video">
-            <visible>${showMediaVideoGamelist}</visible>
-            <zIndex>${MediaVideoAudioOnly}</zIndex>
-        </video>
         <image name="media-miximage">
         	<origin>0.5 0.5</origin>
         	<imageType>miximage</imageType>
@@ -416,7 +412,67 @@
         	<zIndex>40</zIndex>
         	</image>
     </view>
+    
+    <variant name="carousel-small,carousel-large">
+      <view name="gamelist">
+      	<carousel name="system-carousel,games-carousel">
+            <imageType>cover</imageType>
+            <imageFit>cover</imageFit>
+            <color>00000000</color>
+            <defaultImage>./_inc/system/icons/_default_game.webp</defaultImage>
+            <unfocusedItemOpacity>0.9</unfocusedItemOpacity>
+        </carousel>
+        <video name="media-video">
+            <visible>${showMediaVideoGamelist}</visible>
+            <zIndex>${MediaVideoAudioOnly}</zIndex>
+        </video>
+        </view>
+   </variant>
+        
+    <variant name="carousel-xmb-cover-small,carousel-xmb-marquee-small,carousel-xmb-cover-large,carousel-xmb-marquee-large">
+      <view name="gamelist">
+        <carousel name="carousel-xmb">
+         <origin>0.5 0</origin>
+         <type>vertical</type>
+         <defaultImage>./_inc/system/icons/_default_game.webp</defaultImage>
+         <defaultFolderImage>./_inc/system/icons/_default_sys.webp</defaultFolderImage>
+         <unfocusedItemOpacity>0.9</unfocusedItemOpacity>
+         <textColor>${white}</textColor>
+         <textBackgroundColor>${grey}</textBackgroundColor>
+         <fontPath>${fontMedium}</fontPath>
+         <color>00000000</color>
+         <fastScrolling>true</fastScrolling>
+         <zIndex>39</zIndex>
+      </carousel>
+      <video name="media-video">
+      	<visible>${showMediaVideoXMB}</visible>
+      	<zIndex>${MediaVideoAudioOnly}</zIndex>
+        </video>
+        <image name="game-marquee">
+        	<visible>${showMarqueeXMB}</visible>
+        	</image>
+        </view>
+   </variant>
+   
+   <variant name="carousel-xmb-cover-small,carousel-xmb-cover-large">
+      <view name="gamelist">
+        <carousel name="carousel-xmb">
+         <imageType>cover</imageType>
+      </carousel>
+        </view>
+   </variant>
 
+   <variant name="carousel-xmb-marquee-small,carousel-xmb-marquee-large">
+      <view name="gamelist">
+        <carousel name="carousel-xmb">
+         <imageType>marquee</imageType>
+      </carousel>
+      <image name="game-marquee">
+        	<visible>false</visible>
+        	</image>
+      </view>
+   </variant>
+   
 	<aspectRatio name="16:9">
       <include>./aspect-ratio-16-9.xml</include>
    </aspectRatio>
