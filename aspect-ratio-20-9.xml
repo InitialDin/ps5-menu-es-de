@@ -265,7 +265,8 @@
         	<pos>0.195 0.575</pos>
         </image>
         <video name="media-video">
-        	<pos>0.850 0.680</pos>
+        	<pos>0.820 0.680</pos>
+        	<maxSize>0.320 0.480</maxSize>
         </video>
         <image name="media-screenshot">
         	<pos>0.850 0.680</pos>

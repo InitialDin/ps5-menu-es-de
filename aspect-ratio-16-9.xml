@@ -42,8 +42,8 @@
         	<pos>0.822 0.570</pos>
         </image>
             <video name="media-video">
-            <cropSize>0.280 0.355</cropSize>
             <pos>0.822 0.570</pos>
+            <cropSize>0.280 0.355</cropSize>
         </video>
         <image name="metadata-background">
             <pos>0.076 0.815</pos>
@@ -248,7 +248,8 @@
         	<pos>0.217 0.575</pos>
         </image>
         <video name="media-video">
-        	<pos>0.830 0.730</pos>
+        	<pos>0.830 0.700</pos>
+        	<maxSize>0.300 0.440</maxSize>
         </video>
         <image name="media-screenshot">
         	<pos>0.830 0.730</pos>

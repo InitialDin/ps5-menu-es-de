@@ -250,7 +250,8 @@
         	<maxSize>0.230 0.225</maxSize>
         	</image>
             <video name="media-video">
-            <pos>0.822 0.755</pos>
+            <pos>0.800 0.740</pos>
+            <maxSize>0.380 0.400</maxSize>
         </video>
         <image name="media-screenshot">
         	<pos>0.822 0.755</pos>
