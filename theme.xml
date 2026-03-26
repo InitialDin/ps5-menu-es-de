@@ -431,6 +431,7 @@
             <imageType>cover</imageType>
             <imageFit>cover</imageFit>
             <color>00000000</color>
+			<fastScrolling>true</fastScrolling>
             <defaultImage>./_inc/system/icons/_default_game.webp</defaultImage>
             <unfocusedItemOpacity>0.9</unfocusedItemOpacity>
         </carousel>
