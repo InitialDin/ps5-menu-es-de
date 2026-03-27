@@ -24,12 +24,20 @@
       <label>Carousel (Small) | XMB (Marquee)</label>
       <selectable>true</selectable>
    </variant>
+   <variant name="carousel-xmb-physicalmedia-small">
+      <label>Carousel (Small) | XMB (Physical Media)</label>
+      <selectable>true</selectable>
+   </variant>
    <variant name="carousel-xmb-cover-large">
       <label>Carousel (Large) | XMB (Cover)</label>
       <selectable>true</selectable>
    </variant>
    <variant name="carousel-xmb-marquee-large">
       <label>Carousel (Large) | XMB (Marquee)</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="carousel-xmb-physicalmedia-large">
+      <label>Carousel (Large) | XMB (Physical Media)</label>
       <selectable>true</selectable>
    </variant>
     

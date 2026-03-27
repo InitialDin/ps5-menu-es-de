@@ -443,7 +443,7 @@
         </view>
    </variant>
         
-    <variant name="carousel-xmb-cover-small,carousel-xmb-marquee-small,carousel-xmb-cover-large,carousel-xmb-marquee-large">
+    <variant name="carousel-xmb-cover-small,carousel-xmb-marquee-small,carousel-xmb-physicalmedia-small,carousel-xmb-cover-large,carousel-xmb-marquee-large,carousel-xmb-physicalmedia-large">
       <view name="gamelist">
         <carousel name="carousel-xmb">
          <origin>0.5 0</origin>
@@ -484,6 +484,14 @@
       <image name="game-marquee">
         	<visible>false</visible>
         	</image>
+      </view>
+   </variant>
+   
+   <variant name="carousel-xmb-physicalmedia-small,carousel-xmb-physicalmedia-large">
+      <view name="gamelist">
+        <carousel name="carousel-xmb">
+         <imageType>physicalmedia</imageType>
+      </carousel>
       </view>
    </variant>
    
