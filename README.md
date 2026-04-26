@@ -39,7 +39,7 @@ You can replace the default Avatar with your own by naming your custom image as 
 
 <h2>Preview</h2>
 
-| <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0cbba733-c538-491b-aee8-0f01b0d84e16" /> | <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/88c5a796-ef63-430a-83fc-61cda9252202" /> |
+| <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7640e11d-33ab-4ead-a936-25113b8bcabd" /> | <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6fbe991a-89b5-4404-9541-88360942c12d" /> |
 |---|---|
 | System View `16:9` , `Media - Screenshot` , `Carousel (Small)` | Gamelist View `16:9` , `Media - Screenshot` , `Carousel (Small)` |
 | <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/40e0fe62-d60f-4ecd-84dd-87c567708284" /> | <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/85d33e49-850e-4549-bbc4-3047b86940ac" /> |
@@ -49,7 +49,8 @@ You can replace the default Avatar with your own by naming your custom image as 
 
 * Inspired by the design of the PlayStation 5's menu made by Sony
 
-* UI sounds and wallpaper from Sony's PlayStation 5
+* PS5 Background recreated by u/LegendaryTunes
+(https://www.reddit.com/r/playstation/s/WQb24hSTsA)
 
 * System icons from Siddy212's Canvas Theme with some edits by me
 (https://github.com/Siddy212/canvas-es-de/)
