@@ -464,7 +464,7 @@
 		 <pos>0.05 0.5</pos>
          <maxSize>0.1 0.1</maxSize>
          <path>./_inc/images/icon-arrow.svg</path>
-         <color>${iconColor}</color>
+         <color>${white}</color>
          <metadataElement>true</metadataElement>
          <stationary>withinView</stationary>
          <zIndex>50</zIndex>
