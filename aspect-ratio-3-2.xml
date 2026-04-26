@@ -140,7 +140,7 @@
             <size>0.0016 0.0611</size>
         </image>
         <badges name="gamelist-badges">
-            <size>0.185 1</size>
+            <size>0.380 1</size>
             <itemMargin>0.005 0</itemMargin>
         </badges>
         <image name="game-marquee">
@@ -371,7 +371,7 @@
             <pos>0.665 0.540</pos>
         </image>
         <badges name="gamelist-badges">
-            <pos>0.767 0.510</pos>
+            <pos>0.767 0.509</pos>
         </badges>
         </view>
    </variant>

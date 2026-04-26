@@ -144,7 +144,7 @@
             <size>0.0016 0.0611</size>
         </image>
         <badges name="gamelist-badges">
-            <size>0.134 1</size>
+            <size>0.270 1</size>
             <itemMargin>0.006 0</itemMargin>
         </badges>
         <text name="gamelist-genre-name">
@@ -248,9 +248,7 @@
             <size>0.0016 0.0611</size>
         </image>
         <badges name="gamelist-badges">
-            <size>0.134 1</size>
-            <itemMargin>0.006 0</itemMargin>
-            <pos>0.312 0.790</pos>
+            <pos>0.312 0.788</pos>
         </badges>
         <image name="game-marquee">
         	<pos>0.195 0.575</pos>
@@ -389,7 +387,7 @@
             <pos>0.559 0.540</pos>
         </image>
         <badges name="gamelist-badges">
-            <pos>0.625 0.510</pos>
+            <pos>0.625 0.508</pos>
         </badges>
         </view>
    </variant>

@@ -140,7 +140,7 @@
             <size>0.0016 0.0611</size>
         </image>
         <badges name="gamelist-badges">
-            <size>0.167 1</size>
+            <size>0.340 1</size>
             <itemMargin>0.008 0</itemMargin>
         </badges>
         <text name="gamelist-genre-name">

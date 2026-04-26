@@ -142,7 +142,7 @@
             <size>0.0016 0.0611</size>
         </image>
         <badges name="gamelist-badges">
-            <size>0.205 1</size>
+            <size>0.405 1</size>
             <itemMargin>0.005 0</itemMargin>
         </badges>
         <image name="game-marquee">
