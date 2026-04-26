@@ -139,11 +139,7 @@
         <image name="gamelist-metadata-middle-divider">
             <size>0.0016 0.0611</size>
         </image>
-        <badges name="gamelist-badges-right">
-            <size>0.185 1</size>
-            <itemMargin>0.005 0</itemMargin>
-        </badges>
-        <badges name="gamelist-badges-left">
+        <badges name="gamelist-badges">
             <size>0.185 1</size>
             <itemMargin>0.005 0</itemMargin>
         </badges>
@@ -234,11 +230,8 @@
         <image name="gamelist-metadata-middle-divider">
             <pos>0.345 0.815</pos>
         </image>
-        <badges name="gamelist-badges-right">
+        <badges name="gamelist-badges">
             <pos>0.450 0.783</pos>
-        </badges>
-        <badges name="gamelist-badges-left">
-            <pos>0.029 0.783</pos>
         </badges>
         <text name="gamelist-genre-name">
             <pos>0.220 0.710</pos>
@@ -341,14 +334,6 @@
          <containerType>horizontal</containerType>
             <fontSize>${carouselTitleFontSizeLarge}</fontSize>
         </text>
-        <text name="gamelist-system-name">
-            <pos>0.397 0.360</pos>
-         <size>0.55 0</size>
-            <fontSize>${metadataFontSizeLarge}</fontSize>
-        </text>
-        <text name="gamelist-genre-name">
-            <visible>false</visible>
-        </text>
         <image name="game-marquee">
         	<pos>0.845 0.790</pos>
         </image>
@@ -385,10 +370,7 @@
         <image name="gamelist-metadata-middle-divider">
             <pos>0.665 0.540</pos>
         </image>
-        <badges name="gamelist-badges-left">
-            <pos>0.399 0.583</pos>
-        </badges>
-        <badges name="gamelist-badges-right">
+        <badges name="gamelist-badges">
             <pos>0.767 0.510</pos>
         </badges>
         </view>

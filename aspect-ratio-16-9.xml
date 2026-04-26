@@ -139,11 +139,7 @@
         <image name="gamelist-metadata-middle-divider">
             <size>0.0016 0.0611</size>
         </image>
-        <badges name="gamelist-badges-right">
-            <size>0.167 1</size>
-            <itemMargin>0.008 0</itemMargin>
-        </badges>
-        <badges name="gamelist-badges-left">
+        <badges name="gamelist-badges">
             <size>0.167 1</size>
             <itemMargin>0.008 0</itemMargin>
         </badges>
@@ -238,11 +234,8 @@
         <image name="gamelist-metadata-middle-divider">
             <pos>0.2860 0.815</pos>
         </image>
-        <badges name="gamelist-badges-right">
+        <badges name="gamelist-badges">
             <pos>0.370 0.783</pos>
-        </badges>
-        <badges name="gamelist-badges-left">
-            <pos>0.035 0.783</pos>
         </badges>
         <image name="game-marquee">
         	<pos>0.217 0.575</pos>
@@ -342,14 +335,6 @@
          <containerType>horizontal</containerType>
             <fontSize>${carouselTitleFontSizeLarge}</fontSize>
         </text>
-        <text name="gamelist-system-name">
-            <pos>0.393 0.360</pos>
-         <size>0.55 0</size>
-            <fontSize>${metadataFontSizeLarge}</fontSize>
-        </text>
-        <text name="gamelist-genre-name">
-            <visible>false</visible>
-        </text>
         <image name="game-marquee">
         	<pos>0.845 0.770</pos>
         </image>
@@ -362,37 +347,34 @@
         	<maxSize>0.380 0.380</maxSize>
         </image>
         <image name="metadata-background">
-            <pos>0.390 0.540</pos>
+            <pos>0.390 0.545</pos>
         </image>
         <image name="gamelist-metadata-players-icon">
-            <pos>0.400 0.540</pos>
+            <pos>0.400 0.545</pos>
         </image>
         <text name="gamelist-metadata-players">
-            <pos>0.423 0.540</pos>
+            <pos>0.423 0.545</pos>
         </text>
         <image name="gamelist-metadata-playtime-icon">
-            <pos>0.474 0.540</pos>
+            <pos>0.474 0.545</pos>
         </image>
         <text name="gamelist-metadata-playtime">
-            <pos>0.497 0.540</pos>
+            <pos>0.497 0.545</pos>
         </text>
         <image name="gamelist-metadata-playcount-icon">
-            <pos>0.606 0.540</pos>
+            <pos>0.606 0.545</pos>
         </image>
         <text name="gamelist-metadata-playcount">
-            <pos>0.627 0.540</pos>
+            <pos>0.627 0.545</pos>
         </text>
         <image name="gamelist-metadata-left-divider">
-            <pos>0.466 0.540</pos>
+            <pos>0.466 0.545</pos>
         </image>
         <image name="gamelist-metadata-middle-divider">
-            <pos>0.596 0.540</pos>
+            <pos>0.596 0.545</pos>
         </image>
-        <badges name="gamelist-badges-left">
-            <pos>0.392 0.583</pos>
-        </badges>
-        <badges name="gamelist-badges-right">
-            <pos>0.682 0.510</pos>
+        <badges name="gamelist-badges">
+            <pos>0.682 0.515</pos>
         </badges>
         </view>
    </variant>

@@ -389,12 +389,12 @@
             <color>${white}</color>
             <zIndex>45</zIndex>
         </text>
-        <badges name="gamelist-badges-right">
+        <badges name="gamelist-badges">
             <origin>0 0</origin>
             <horizontalAlignment>left</horizontalAlignment>
             <direction>row</direction>
-            <lines>7</lines>
-            <slots>favorite,completed,collection,manual,folder,kidgame,broken</slots>
+            <lines>8</lines>
+            <slots>favorite,completed,collection,manual,folder,kidgame,broken,altemulator</slots>
             <customBadgeIcon badge="favorite">./_inc/images/badge-favorite.svg</customBadgeIcon>
             <customBadgeIcon badge="completed">./_inc/images/badge-completed.svg</customBadgeIcon>
             <customBadgeIcon badge="collection">./_inc/images/badge-collection.svg</customBadgeIcon>
@@ -402,14 +402,6 @@
             <customBadgeIcon badge="folder">./_inc/images/badge-folder.svg</customBadgeIcon>
             <customBadgeIcon badge="kidgame">./_inc/images/badge-kidgame.svg</customBadgeIcon>
             <customBadgeIcon badge="broken">./_inc/images/badge-broken.svg</customBadgeIcon>
-            <zIndex>45</zIndex>
-        </badges>
-        <badges name="gamelist-badges-left">
-            <origin>0.8 0</origin>
-            <horizontalAlignment>right</horizontalAlignment>
-            <direction>row</direction>
-            <lines>1</lines>
-            <slots>altemulator</slots>
             <customBadgeIcon badge="altemulator">./_inc/images/badge-altemulator.svg</customBadgeIcon>
             <zIndex>45</zIndex>
         </badges>
@@ -459,6 +451,12 @@
          <fastScrolling>true</fastScrolling>
          <zIndex>39</zIndex>
       </carousel>
+      <text name="gamelist-system-name">
+      	<visible>false</visible>
+        </text>
+        <text name="gamelist-genre-name">
+            <visible>false</visible>
+        </text>
 	<image name="back-arrow">
          <origin>0.5 0.5</origin>
 		 <pos>0.05 0.5</pos>
