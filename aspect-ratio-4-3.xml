@@ -46,7 +46,7 @@
         </video>
         <image name="metadata-background">
             <pos>0.076 0.815</pos>
-            <size>0.365 0.0621</size>
+            <size>0.350 0.0621</size>
             <cornerRadius>0.0193</cornerRadius> 
         </image>
         <image name="default-avatar-icon">
@@ -74,16 +74,16 @@
             <fontSize>${metadataFontSize}</fontSize>
         </text>
         <image name="system-favorites-icon">
-            <pos>0.350 0.815</pos>
+            <pos>0.330 0.815</pos>
             <size>0 0.0278</size>
         </image>
         <text name="system-favorites">
-            <pos>0.390 0.815</pos>
+            <pos>0.370 0.815</pos>
             <size>0.0336 0.0444</size>
             <fontSize>${metadataFontSize}</fontSize>
         </text>
         <image name="system-metadata-divider">
-            <pos>0.330 0.815</pos>
+            <pos>0.315 0.815</pos>
             <size>0.0016 0.0611</size>
         </image>
         <image name="metadata-lastplayed-background">
@@ -106,7 +106,7 @@
         </text>
         <image name="system-marquee">
         	 <pos>0.210 0.600</pos>
-        	 <maxSize>0.230 0.150</maxSize>
+        	 <maxSize>0.280 0.190</maxSize>
         </image>
         <image name="media-screenshot">
         	<pos>0.822 0.630</pos>
@@ -240,10 +240,10 @@
         </text>
         <image name="game-marquee">
         	<pos>0.217 0.575</pos>
-        	<maxSize>0.230 0.225</maxSize>
+        	<maxSize>0.280 0.265</maxSize>
         	</image>
             <video name="media-video">
-            <pos>0.800 0.740</pos>
+            <pos>0.800 0.720</pos>
             <maxSize>0.380 0.400</maxSize>
         </video>
         <image name="media-screenshot">
@@ -382,8 +382,12 @@
    <variant name="carousel-xmb-min-small,carousel-xmb-min-large">
       <view name="gamelist">
         <image name="game-marquee">
-        	<pos>0.820 0.630</pos>
-        	<maxSize>0.360 0.360</maxSize>
+        	<pos>0.810 0.630</pos>
+        	<maxSize>0.390 0.390</maxSize>
+        </image>
+        <image name="gamesystem-logo">
+            <pos>0.555 0.815</pos>
+            <maxSize>0.08 0.08</maxSize>
         </image>
         <image name="media-screenshot">
         	<pos>0.820 0.590</pos>

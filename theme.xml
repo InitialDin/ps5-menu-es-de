@@ -464,8 +464,6 @@
          <maxSize>0.1 0.1</maxSize>
          <path>./_inc/images/icon-arrow.svg</path>
          <color>${white}</color>
-         <metadataElement>true</metadataElement>
-         <stationary>withinView</stationary>
          <zIndex>50</zIndex>
       </image>
       <video name="media-video">
@@ -502,9 +500,6 @@
         <text name="system-games-name">
             <visible>false</visible>
         </text>
-        <image name="gamesystem-logo">
-            <visible>false</visible>
-        </image>
         <badges name="gamelist-badges">
             <horizontalAlignment>right</horizontalAlignment>
         </badges>

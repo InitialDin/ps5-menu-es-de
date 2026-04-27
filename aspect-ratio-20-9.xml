@@ -398,6 +398,10 @@
         	<pos>0.845 0.610</pos>
         	<maxSize>0.310 0.310</maxSize>
         </image>
+        <image name="gamesystem-logo">
+            <pos>0.700 0.820</pos>
+            <maxSize>0.08 0.08</maxSize>
+        </image>
         <image name="media-screenshot">
         	<pos>0.855 0.580</pos>
         </image>

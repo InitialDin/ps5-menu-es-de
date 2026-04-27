@@ -382,8 +382,12 @@
    <variant name="carousel-xmb-min-small,carousel-xmb-min-large">
       <view name="gamelist">
         <image name="game-marquee">
-        	<pos>0.820 0.597</pos>
+        	<pos>0.810 0.597</pos>
         	<maxSize>0.310 0.310</maxSize>
+        </image>
+        <image name="gamesystem-logo">
+            <pos>0.635 0.813</pos>
+            <maxSize>0.08 0.08</maxSize>
         </image>
         <image name="media-screenshot">
         	<pos>0.825 0.600</pos>
