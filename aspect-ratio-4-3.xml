@@ -255,7 +255,7 @@
     </view>
    </variant>
    
-   <variant name="carousel-xmb-cover-small,carousel-xmb-min-small,carousel-xmb-marquee-small,carousel-xmb-physicalmedia-small">
+   <variant name="carousel-xmb-cover-small,carousel-xmb-min-small,carousel-xmb-marquee-small,carousel-xmb-title-small,carousel-xmb-physicalmedia-small">
    	<view name="system">
         <carousel name="system-carousel">
             <pos>0 -0.020</pos>
@@ -272,7 +272,7 @@
         </view>
       </variant>
       
-    <variant name="carousel-xmb-cover-large,carousel-xmb-min-large,carousel-xmb-marquee-large,carousel-xmb-physicalmedia-large">
+    <variant name="carousel-xmb-cover-large,carousel-xmb-min-large,carousel-xmb-marquee-large,carousel-xmb-title-large,carousel-xmb-physicalmedia-large">
    	<view name="system">
         <carousel name="system-carousel">
             <pos>0 0.020</pos>
@@ -303,7 +303,7 @@
         </view>
       </variant>  
    
-   <variant name="carousel-xmb-cover-small,carousel-xmb-min-small,carousel-xmb-marquee-small,carousel-xmb-physicalmedia-small,carousel-xmb-cover-large,carousel-xmb-min-large,carousel-xmb-marquee-large,carousel-xmb-physicalmedia-large">
+   <variant name="carousel-xmb-cover-small,carousel-xmb-min-small,carousel-xmb-marquee-small,carousel-xmb-title-small,carousel-xmb-physicalmedia-small,carousel-xmb-cover-large,carousel-xmb-min-large,carousel-xmb-marquee-large,carousel-xmb-title-large,carousel-xmb-physicalmedia-large">
       <view name="gamelist">
         <carousel name="carousel-xmb">
          <pos>0.25 0</pos>
