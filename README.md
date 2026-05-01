@@ -14,18 +14,18 @@ You can replace the default Avatar with your own by naming your custom image as 
 * `Theme Aspect Ratio` - Sets the aspect ratio that the theme will render at. This should happen automatically but if needed, this can be changed manually to match the aspect ratio of your screen. `16:9` , `16:10` , `4:3` , `3:2` and `20:9` are supported
 
 * `Theme Variant` - There are 12 theme variants to choose from
-  * `Carousel (Small)`
-  * `Carousel (Large)`
-  * `Carousel (Small) + XMB (Cover)`
-  * `Carousel (Small) + XMB (Minimal)`
-  * `Carousel (Small) + XMB (Marquee)`
-  * `Carousel (Small) + XMB (Title Screen)`
-  * `Carousel (Small) + XMB (Physical Media)`
-  * `Carousel (Large) + XMB (Cover)`
-  * `Carousel (Large) + XMB (Minimal)`
-  * `Carousel (Large) + XMB (Marquee)`
-  * `Carousel (Large) + XMB (Title Screen)`
-  * `Carousel (Large) + XMB (Physical Media)`
+  * `PS5 (Small)`
+  * `PS5 (Large)`
+  * `PS5 (Small) + XMB (Cover)`
+  * `PS5 (Small) + XMB (Minimal)`
+  * `PS5 (Small) + XMB (Marquee)`
+  * `PS5 (Small) + XMB (Title Screen)`
+  * `PS5 (Small) + XMB (Physical Media)`
+  * `PS5 (Large) + XMB (Cover)`
+  * `PS5 (Large) + XMB (Minimal)`
+  * `PS5 (Large) + XMB (Marquee)`
+  * `PS5 (Large) + XMB (Title Screen)`
+  * `PS5 (Large) + XMB (Physical Media)`
  
 * `Theme Color Scheme` - This lets you pick what you want to see on your system and gamelist view
   * `Media - Video` - Displays your scraped game videos on the right (system and gamelist view)
